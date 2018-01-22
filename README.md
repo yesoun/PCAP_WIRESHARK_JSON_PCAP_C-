@@ -49,14 +49,3 @@ Sample output format: (newlines don't matter here. Also, order of fields in {...
   "5": {“tsSec”: 1084443428, “incLen”: 1434, “tsUSec”: 993643, “origLen”: 1434}, ...
 
 }}
-
-
-To SUBMIT:
-=========
-Click on the title of the assignment at the top of this announcement to get to the assignment submission link.
-In a single ZIP file, give me the source code. If it is written in python or perl, that us sufficient. If C/C++/Java -- give me a Linux or Windows executable and tell me which it is).
-Grading:
-=======
-30% on readability and quality of source code. 
-70% on functionality with test cases other than what I posted.
-See two sample attached input and corresponding output files..
