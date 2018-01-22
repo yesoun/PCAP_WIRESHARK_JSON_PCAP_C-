@@ -1,0 +1,268 @@
+{
+    "0": {
+        "incLen": 62,
+        "origLen": 62,
+        "tmSec": 1084443427,
+        "tmUSec": 311224
+    },
+    "1": {
+        "incLen": 62,
+        "origLen": 62,
+        "tmSec": 1084443428,
+        "tmUSec": 222534
+    },
+    "10": {
+        "incLen": 1434,
+        "origLen": 1434,
+        "tmSec": 1084443429,
+        "tmUSec": 864896
+    },
+    "11": {
+        "incLen": 54,
+        "origLen": 54,
+        "tmSec": 1084443429,
+        "tmUSec": 864896
+    },
+    "12": {
+        "incLen": 89,
+        "origLen": 89,
+        "tmSec": 1084443429,
+        "tmUSec": 864896
+    },
+    "13": {
+        "incLen": 1434,
+        "origLen": 1434,
+        "tmSec": 1084443429,
+        "tmUSec": 945011
+    },
+    "14": {
+        "incLen": 54,
+        "origLen": 54,
+        "tmSec": 1084443430,
+        "tmUSec": 125270
+    },
+    "15": {
+        "incLen": 1434,
+        "origLen": 1434,
+        "tmSec": 1084443430,
+        "tmUSec": 205385
+    },
+    "16": {
+        "incLen": 188,
+        "origLen": 188,
+        "tmSec": 1084443430,
+        "tmUSec": 225414
+    },
+    "17": {
+        "incLen": 775,
+        "origLen": 775,
+        "tmSec": 1084443430,
+        "tmUSec": 295515
+    },
+    "18": {
+        "incLen": 54,
+        "origLen": 54,
+        "tmSec": 1084443430,
+        "tmUSec": 325558
+    },
+    "19": {
+        "incLen": 1434,
+        "origLen": 1434,
+        "tmSec": 1084443430,
+        "tmUSec": 686076
+    },
+    "2": {
+        "incLen": 54,
+        "origLen": 54,
+        "tmSec": 1084443428,
+        "tmUSec": 222534
+    },
+    "20": {
+        "incLen": 1434,
+        "origLen": 1434,
+        "tmSec": 1084443430,
+        "tmUSec": 806249
+    },
+    "21": {
+        "incLen": 54,
+        "origLen": 54,
+        "tmSec": 1084443430,
+        "tmUSec": 806249
+    },
+    "22": {
+        "incLen": 1434,
+        "origLen": 1434,
+        "tmSec": 1084443430,
+        "tmUSec": 946451
+    },
+    "23": {
+        "incLen": 54,
+        "origLen": 54,
+        "tmSec": 1084443430,
+        "tmUSec": 956465
+    },
+    "24": {
+        "incLen": 54,
+        "origLen": 54,
+        "tmSec": 1084443431,
+        "tmUSec": 126710
+    },
+    "25": {
+        "incLen": 1484,
+        "origLen": 1484,
+        "tmSec": 1084443431,
+        "tmUSec": 226854
+    },
+    "26": {
+        "incLen": 214,
+        "origLen": 214,
+        "tmSec": 1084443431,
+        "tmUSec": 266912
+    },
+    "27": {
+        "incLen": 54,
+        "origLen": 54,
+        "tmSec": 1084443431,
+        "tmUSec": 266912
+    },
+    "28": {
+        "incLen": 1434,
+        "origLen": 1434,
+        "tmSec": 1084443431,
+        "tmUSec": 417128
+    },
+    "29": {
+        "incLen": 54,
+        "origLen": 54,
+        "tmSec": 1084443431,
+        "tmUSec": 527286
+    },
+    "3": {
+        "incLen": 533,
+        "origLen": 533,
+        "tmSec": 1084443428,
+        "tmUSec": 222534
+    },
+    "30": {
+        "incLen": 1434,
+        "origLen": 1434,
+        "tmSec": 1084443431,
+        "tmUSec": 537300
+    },
+    "31": {
+        "incLen": 1434,
+        "origLen": 1434,
+        "tmSec": 1084443431,
+        "tmUSec": 667488
+    },
+    "32": {
+        "incLen": 54,
+        "origLen": 54,
+        "tmSec": 1084443431,
+        "tmUSec": 667488
+    },
+    "33": {
+        "incLen": 1434,
+        "origLen": 1434,
+        "tmSec": 1084443431,
+        "tmUSec": 807689
+    },
+    "34": {
+        "incLen": 54,
+        "origLen": 54,
+        "tmSec": 1084443431,
+        "tmUSec": 807689
+    },
+    "35": {
+        "incLen": 1484,
+        "origLen": 1484,
+        "tmSec": 1084443432,
+        "tmUSec": 88092
+    },
+    "36": {
+        "incLen": 54,
+        "origLen": 54,
+        "tmSec": 1084443432,
+        "tmUSec": 88092
+    },
+    "37": {
+        "incLen": 478,
+        "origLen": 478,
+        "tmSec": 1084443432,
+        "tmUSec": 158193
+    },
+    "38": {
+        "incLen": 54,
+        "origLen": 54,
+        "tmSec": 1084443432,
+        "tmUSec": 328438
+    },
+    "39": {
+        "incLen": 54,
+        "origLen": 54,
+        "tmSec": 1084443445,
+        "tmUSec": 216971
+    },
+    "4": {
+        "incLen": 54,
+        "origLen": 54,
+        "tmSec": 1084443428,
+        "tmUSec": 783340
+    },
+    "40": {
+        "incLen": 54,
+        "origLen": 54,
+        "tmSec": 1084443445,
+        "tmUSec": 216971
+    },
+    "41": {
+        "incLen": 54,
+        "origLen": 54,
+        "tmSec": 1084443457,
+        "tmUSec": 374452
+    },
+    "42": {
+        "incLen": 54,
+        "origLen": 54,
+        "tmSec": 1084443457,
+        "tmUSec": 704928
+    },
+    "5": {
+        "incLen": 1434,
+        "origLen": 1434,
+        "tmSec": 1084443428,
+        "tmUSec": 993643
+    },
+    "6": {
+        "incLen": 54,
+        "origLen": 54,
+        "tmSec": 1084443429,
+        "tmUSec": 123830
+    },
+    "7": {
+        "incLen": 1434,
+        "origLen": 1434,
+        "tmSec": 1084443429,
+        "tmUSec": 123830
+    },
+    "8": {
+        "incLen": 54,
+        "origLen": 54,
+        "tmSec": 1084443429,
+        "tmUSec": 324118
+    },
+    "9": {
+        "incLen": 1434,
+        "origLen": 1434,
+        "tmSec": 1084443429,
+        "tmUSec": 754737
+    },
+    "count": 43,
+    "magicNumber": 2712847316,
+    "majorVersion": 2,
+    "minorVersion": 4,
+    "network": 1,
+    "sigfigs": 0,
+    "snaplen": 65535,
+    "thiszone": 0
+}
